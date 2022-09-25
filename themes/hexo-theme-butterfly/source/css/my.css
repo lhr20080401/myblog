@@ -1,0 +1,9 @@
+body {
+    cursor:url(/img/bg.cur),
+          default;
+  }
+  a,
+  img {
+    cursor:url(/img/img.cur),
+          default;
+  }
